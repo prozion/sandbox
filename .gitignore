@@ -1,0 +1,6 @@
+.ipynb*
+rust/*/target
+python/*/build
+passwd
+verilog
+

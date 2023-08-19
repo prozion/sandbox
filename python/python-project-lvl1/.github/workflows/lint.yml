@@ -1,0 +1,13 @@
+name: lint
+on: push
+jobs:
+  lint-flake8:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          pip install poetry
+          make install
+      - name: Run Flake8 linter
+        run: make lint-flake8

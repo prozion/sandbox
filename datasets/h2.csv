@@ -1,0 +1,67 @@
+unit	race	level	attack	defence	hit points	damage min	damage max	ammo	speed	growth	gold	crystal	sulphur	gems
+Crusader	Knight	6	11	12	65	10	20		very_fast	2	1000			
+Ogre	Barbarian	4	9	5	40	4	6		very_slow	4	300			
+Wolf	Barbarian	3	6	2	20	3	5		very_fast	5	200			
+Iron_Golem	Wizard	3	5	10	30	4	5		very_slow	4	300			
+Boar	Wizard	2	5	4	15	2	3		very_fast	6	150			
+War_Troll	Barbarian	5	10	5	40	7	9	16	fast	3	700			
+Centaur	Warlock	1	3	1	5	1	2	8	average	8	60			
+Rogue	Neutral		6	1	4	1	2		fast		50			
+Medusa	Neutral		8	9	35	6	10		average		500			
+Sprite	Sorceress	1	4	2	2	1	2		average	8	50			
+Druid	Sorceress	4	7	5	25	5	8	8	fast	3	350			
+Greater_Druid	Sorceress	4	7	7	25	5	8	16	very_fast	3	400			
+Cyclops	Barbarian	6	12	9	80	12	24		fast	2	750	1		
+Zombie	Necromancer	2	5	2	15	2	3		very_slow	6	150			
+Earth_Elemental	Neutral		8	8	50	4	5		slow		500			
+Mage	Wizard	5	11	7	30	7	9	12	fast	2	600			
+Grand_Elf	Sorceress	3	5	5	15	2	3	24	very_fast	4	300			
+Water_Elemental	Neutral		6	8	45	3	7		average		500			
+Swordsman	Knight	4	7	9	25	4	6		average	4	250			
+Battle_Dwarf	Sorceress	2	6	6	20	2	4		average	6	250			
+Griffin	Warlock	3	6	6	25	3	5		average	4	300			
+Minotaur	Warlock	4	9	8	35	5	10		average	3	400			
+Green_Dragon	Warlock	6	12	12	200	25	50		average	1	3000		1	
+Elf	Sorceress	3	4	3	15	2	3	24	average	4	250			
+Red_Dragon	Warlock	6	13	13	250	25	50		fast	1	3500		1	
+Air_Elemental	Neutral		7	7	35	2	8		very_fast		500			
+Ogre_Lord	Barbarian	4	9	5	60	5	7		average	4	500			
+Halfling	Wizard	1	2	1	3	1	3	12	slow	8	50			
+Giant	Wizard	6	13	10	150	20	30		average	1	2000			1
+Gargoyle	Warlock	2	4	7	15	2	3		very_fast	6	200			
+Ghost	Neutral		8	7	20	4	6		fast		1000			
+Skeleton	Necromancer	1	4	3	4	2	3		average	8	75			
+Fire_Elemental	Neutral		8	6	40	4	6		fast		500			
+Pikeman	Knight	3	5	9	15	3	4		average	5	200			
+Roc	Wizard	4	7	7	40	4	8		average	3	400			
+Peasant	Knight	1	1	1	1	1	1		very_slow	12	20			
+Mummy	Necromancer	3	6	6	25	3	4		average	4	250			
+Genie	Neutral		10	9	50	20	30		very_fast		650			1
+Unicorn	Sorceress	5	10	9	40	7	14		fast	2	500			
+Ranger	Knight	2	5	3	10	2	3	24	average	8	200			
+Bone_Dragon	Necromancer	6	11	9	150	25	45		average	1	1500			
+Paladin	Knight	6	11	12	50	10	20		fast	2	600			
+Hydra	Warlock	5	8	9	75	6	12		very_slow	2	800			
+Orc	Barbarian	2	3	4	10	2	3	8	very_slow	8	140			
+Veteran_Pikeman	Knight	3	5	9	20	3	4		fast	5	250			
+Champion	Knight	5	10	9	40	5	10		ultra_fast	3	375			
+Cavalry	Knight	5	10	9	30	5	10		very_fast	3	300			
+Archmage	Wizard	5	12	8	35	7	9	24	very_fast	2	700			
+Dwarf	Sorceress	2	6	5	20	2	4		very_slow	6	200			
+Black_Dragon	Warlock	6	14	14	300	25	50		very_fast	1	4000		2	
+Royal_Mummy	Necromancer	3	6	6	30	3	4		fast	4	300			
+Vampire	Necromancer	4	8	6	30	5	7		average	3	500			
+Nomad	Neutral		7	6	20	2	5		very_fast		200			
+Lich	Necromancer	5	7	12	25	8	10	12	fast	2	750			
+Titan	Wizard	6	15	15	300	20	30	16	very_fast	1	5000			2
+Orc_Chief	Barbarian	2	3	4	15	3	4	16	slow	8	175			
+Vampire_Lord	Necromancer	4	8	6	40	5	7		fast	3	650			
+Power_Lich	Necromancer	5	7	13	35	8	10	24	very_fast	2	900			
+Troll	Barbarian	5	10	5	40	5	7	8	average	8	600			
+Mutant_Zombie	Necromancer	2	5	2	20	2	3		average	6	200			
+Phoenix	Sorceress	6	12	10	100	20	40		ultra_fast	1	1500			
+Steel_Golem	Wizard	3	7	10	35	4	5		slow	4	350			
+Minotaur_King	Warlock	4	9	8	45	5	10		very_fast	3	500			
+Goblin	Barbarian	1	3	1	3	1	2		average	10	40			
+Master_Swordsman	Knight	4	7	9	30	4	6		fast	4	300			
+Archer	Knight	2	5	3	10	2	3	12	very_slow	8	150			

@@ -1,0 +1,68 @@
+unit	race	level	attack	defence	hit points	damage min	damage max	ammo	speed	growth	gold	crystal
+Crusader	Knight	6	11	12	65	10	20		very_fast	2	1000	
+Ogre	Barbarian	4	9	5	40	4	6		very_slow	4	300	
+Wolf	Barbarian	3	6	2	20	3	5		very_fast	5	200	
+Iron_Golem	Wizard	3										
+Boar	Wizard	2										
+War_Troll	Barbarian	5	10	5	40	7	9	16	fast	3	700	
+Centaur	Warlock	1										
+Rogue	Neutral		6	1	4	1	2		fast		50	
+Medusa	Neutral											
+Sprite	Sorceress	1										
+Druid	Sorceress	4										
+Greater_Druid	Sorceress	4										
+Cyclops	Barbarian	6	12	9	80	12	24		fast	2	750	1
+Zombie	Necromancer	2										
+Earth_Elemental	Neutral											
+Mage	Wizard	5										
+Grand_Elf	Sorceress	3										
+Water_Elemental	Neutral											
+Swordsman	Knight	4	7	9	25	4	6		average	4	250	
+Battle_Dwarf	Sorceress	2										
+Griffin	Warlock	3										
+Minotaur	Warlock	4										
+Green_Dragon	Warlock	6										
+Elf	Sorceress	3										
+Red_Dragon	Warlock	6										
+Air_Elemental	Neutral											
+Ogre_Lord	Barbarian	4	9	5	60	5	7		average	4	500	
+Halfling	Wizard	1										
+Giant	Wizard	6										
+Gargoyle	Warlock	2										
+Ghost	Neutral											
+Skeleton	Necromancer	1	4	3	4	2	3		average	8	75	
+Fire_Elemental	Neutral											
+Pikeman	Knight	3	5	9	15	3	4		average	5	200	
+Roc	Wizard	4										
+Peasant	Knight	1	1	1	1	1	1		very_slow	12	20	
+Mummy	Necromancer	3										
+Genie	Neutral											
+Unicorn	Sorceress	5										
+Ranger	Knight	2	5	3	10	2	3	24	average	8	200	
+Bone_Dragon	Necromancer	6										
+Paladin	Knight	6	11	12	50	10	20		fast	2	600	
+Hydra	Warlock	5										
+Orc	Barbarian	2	3	4	10	2	3	8	very_slow	8	140	
+Veteran_Pikeman	Knight	3	5	9	20	3	4		fast	5	250	
+Champion	Knight	5	10	9	40	5	10		ultra_fast	3	375	
+Cavalry	Knight	5	10	9	30	5	10		very_fast	3	300	
+Archmage	Wizard	5										
+Dwarf	Sorceress	2										
+Black_Dragon	Warlock	6										
+Royal_Mummy	Necromancer	3										
+h2_creatures												
+Vampire	Necromancer	4										
+Nomad	Neutral											
+Lich	Necromancer	5										
+Titan	Wizard	6										
+Orc_Chief	Barbarian	2	3	4	15	3	4	16	slow	8	175	
+Vampire_Lord	Necromancer	4										
+Power_Lich	Necromancer	5										
+Troll	Barbarian	5	10	5	40	5	7	8	average	8	600	
+Mutant_Zombie	Necromancer	2										
+Phoenix	Sorceress	6										
+Steel_Golem	Wizard	3										
+Minotaur_King	Warlock	4										
+Goblin	Barbarian	1	3	1	3	1	2		average	10	40	
+Master_Swordsman	Knight	4	7	9	30	4	6		fast	4	300	
+Archer	Knight	2	5	3	10	2	3	12	very_slow	8	150	
